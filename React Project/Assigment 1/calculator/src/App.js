@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import './calculator.css';
-import './calFunction.js';
 
 import {TextBox} from './textbox.js';
 
